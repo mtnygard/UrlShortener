@@ -9,3 +9,6 @@ appsettings.*.json
 packages/
 *.db
 lib/
+
+.fake
+.ionide
